@@ -1,1 +1,301 @@
-
+lead_source,industry,region,num_interactions,time_since_last_contact,device_type,converted
+LinkedIn,Textile,India-South,3,8,Desktop,1
+Referral,Cement,India-South,9,10,Tablet,1
+Cold Call,Construction,India-Central,1,3,Tablet,0
+Cold Call,Automobile,India-North,5,7,Mobile,0
+LinkedIn,Automobile,India-West,4,10,Desktop,0
+LinkedIn,Chemical,India-North,1,8,Tablet,1
+Phone,Infrastructure,India-South,8,5,Mobile,0
+Phone,Mining,India-North,3,8,Mobile,1
+Email,Textile,India-South,5,9,Tablet,0
+Email,Chemical,India-Central,9,6,Tablet,1
+Email,Cement,India-West,3,6,Tablet,1
+Cold Call,Cement,India-South,1,3,Tablet,0
+Web,Cement,India-Central,5,1,Tablet,0
+LinkedIn,Automobile,India-West,6,2,Tablet,0
+Cold Call,Oil & Gas,India-Central,9,9,Desktop,0
+Referral,Chemical,India-West,8,1,Mobile,1
+Phone,Oil & Gas,India-East,2,8,Mobile,0
+Web,Steel,India-West,2,6,Tablet,0
+Phone,Construction,India-South,5,2,Mobile,1
+LinkedIn,Steel,India-East,8,10,Mobile,0
+Email,Chemical,India-North,8,8,Mobile,1
+Email,Infrastructure,India-Central,3,2,Desktop,0
+Email,Cement,India-North,1,3,Mobile,0
+Web,Oil & Gas,India-East,2,10,Tablet,1
+Web,Chemical,India-South,3,8,Mobile,1
+Web,Textile,India-North,4,7,Tablet,0
+Referral,Chemical,India-Central,1,7,Mobile,0
+Referral,Engineering,India-West,1,1,Desktop,0
+Phone,Engineering,India-East,8,1,Desktop,0
+Phone,Chemical,India-Central,4,9,Mobile,1
+Web,Engineering,India-Central,4,10,Desktop,0
+Email,Cement,India-Central,1,3,Mobile,1
+Email,Engineering,India-Central,3,3,Mobile,0
+Referral,Oil & Gas,India-Central,3,8,Desktop,0
+Phone,Construction,India-South,1,4,Desktop,0
+Trade Show,Mining,India-West,7,9,Mobile,0
+Trade Show,Oil & Gas,India-South,6,3,Tablet,0
+Trade Show,Textile,India-West,2,8,Desktop,1
+Phone,Chemical,India-North,10,9,Desktop,0
+Email,Infrastructure,India-Central,6,1,Mobile,0
+Trade Show,Automobile,India-North,3,9,Desktop,1
+Referral,Infrastructure,India-Central,5,2,Desktop,1
+Referral,Cement,India-Central,3,6,Tablet,0
+Referral,Infrastructure,India-East,8,9,Tablet,1
+Phone,Chemical,India-South,6,3,Desktop,0
+Web,Mining,India-East,3,7,Tablet,1
+Trade Show,Chemical,India-Central,1,7,Mobile,1
+Web,Engineering,India-North,3,4,Mobile,0
+Referral,Steel,India-West,1,4,Mobile,1
+Trade Show,Textile,India-South,1,6,Desktop,0
+Web,Automobile,India-West,1,3,Tablet,0
+Cold Call,Oil & Gas,India-South,9,10,Tablet,1
+Referral,Automobile,India-Central,10,1,Tablet,0
+Cold Call,Steel,India-South,5,5,Desktop,0
+Cold Call,Cement,India-West,5,3,Tablet,0
+LinkedIn,Oil & Gas,India-Central,9,7,Desktop,0
+Web,Chemical,India-South,2,8,Mobile,0
+Phone,Engineering,India-South,9,5,Mobile,0
+Cold Call,Automobile,India-Central,7,8,Tablet,1
+LinkedIn,Chemical,India-East,6,9,Mobile,0
+Referral,Engineering,India-South,5,2,Desktop,1
+LinkedIn,Oil & Gas,India-West,2,2,Tablet,0
+Trade Show,Chemical,India-North,5,6,Desktop,0
+Referral,Automobile,India-West,10,2,Desktop,1
+LinkedIn,Automobile,India-South,4,6,Tablet,1
+LinkedIn,Engineering,India-East,8,5,Desktop,0
+Cold Call,Infrastructure,India-South,10,8,Tablet,0
+Cold Call,Automobile,India-South,2,5,Mobile,1
+Trade Show,Cement,India-West,3,2,Desktop,0
+Web,Construction,India-Central,10,5,Desktop,0
+Cold Call,Oil & Gas,India-South,10,3,Tablet,1
+Web,Oil & Gas,India-South,4,9,Mobile,1
+Trade Show,Chemical,India-East,3,1,Mobile,0
+Cold Call,Mining,India-South,6,8,Tablet,0
+Trade Show,Mining,India-East,9,8,Mobile,1
+LinkedIn,Automobile,India-Central,1,5,Desktop,0
+LinkedIn,Chemical,India-Central,1,8,Desktop,1
+Trade Show,Oil & Gas,India-Central,6,10,Tablet,0
+Web,Infrastructure,India-North,6,7,Tablet,0
+Cold Call,Textile,India-West,2,9,Tablet,1
+Email,Steel,India-Central,6,9,Tablet,0
+Referral,Chemical,India-South,4,10,Desktop,0
+Trade Show,Automobile,India-North,9,8,Desktop,0
+Cold Call,Automobile,India-South,5,3,Mobile,0
+Email,Mining,India-North,5,4,Tablet,0
+Web,Engineering,India-Central,9,4,Mobile,0
+LinkedIn,Construction,India-West,8,1,Mobile,0
+LinkedIn,Steel,India-Central,4,5,Desktop,1
+LinkedIn,Infrastructure,India-East,2,3,Mobile,1
+Phone,Construction,India-Central,9,4,Mobile,0
+Email,Automobile,India-South,1,4,Desktop,1
+Email,Construction,India-South,6,5,Mobile,1
+Email,Infrastructure,India-North,7,7,Mobile,0
+Trade Show,Infrastructure,India-West,8,4,Desktop,1
+Web,Mining,India-North,4,8,Mobile,0
+Cold Call,Cement,India-East,6,2,Mobile,0
+Trade Show,Cement,India-South,1,9,Tablet,1
+Web,Construction,India-South,3,3,Desktop,0
+Phone,Cement,India-North,1,7,Tablet,0
+Web,Engineering,India-West,5,7,Tablet,0
+Cold Call,Automobile,India-East,1,3,Mobile,1
+Email,Construction,India-East,6,8,Mobile,0
+Phone,Textile,India-West,9,6,Desktop,0
+LinkedIn,Engineering,India-Central,1,10,Desktop,0
+Cold Call,Cement,India-West,7,2,Mobile,0
+Cold Call,Steel,India-South,1,7,Desktop,0
+Cold Call,Oil & Gas,India-Central,6,7,Mobile,0
+LinkedIn,Chemical,India-West,9,3,Tablet,1
+Referral,Mining,India-Central,4,7,Desktop,0
+Trade Show,Steel,India-Central,4,7,Desktop,1
+LinkedIn,Construction,India-South,4,9,Desktop,0
+Referral,Construction,India-Central,9,4,Tablet,0
+LinkedIn,Infrastructure,India-West,2,3,Mobile,0
+Web,Construction,India-East,2,8,Tablet,1
+Referral,Construction,India-South,7,1,Mobile,0
+Web,Textile,India-South,2,7,Tablet,0
+Trade Show,Construction,India-Central,9,8,Desktop,0
+Referral,Textile,India-East,2,8,Mobile,1
+Referral,Mining,India-North,10,7,Mobile,1
+Trade Show,Engineering,India-North,4,4,Tablet,1
+LinkedIn,Infrastructure,India-West,10,10,Mobile,1
+Trade Show,Chemical,India-East,6,9,Desktop,0
+Referral,Textile,India-Central,7,4,Tablet,1
+Referral,Chemical,India-West,6,2,Mobile,0
+Email,Engineering,India-South,4,5,Mobile,1
+Email,Mining,India-Central,8,7,Mobile,0
+Trade Show,Infrastructure,India-Central,6,1,Tablet,1
+Phone,Oil & Gas,India-East,5,2,Mobile,0
+Phone,Infrastructure,India-Central,2,5,Desktop,1
+Referral,Chemical,India-North,1,4,Desktop,1
+LinkedIn,Oil & Gas,India-North,7,9,Mobile,1
+LinkedIn,Oil & Gas,India-Central,7,7,Desktop,0
+LinkedIn,Oil & Gas,India-South,1,5,Tablet,1
+Trade Show,Cement,India-Central,1,3,Desktop,1
+Web,Construction,India-North,8,9,Desktop,0
+Phone,Textile,India-South,8,8,Tablet,0
+Email,Automobile,India-North,5,7,Tablet,1
+Phone,Cement,India-South,1,8,Mobile,0
+LinkedIn,Oil & Gas,India-West,5,2,Tablet,0
+Email,Engineering,India-North,9,2,Mobile,1
+Trade Show,Cement,India-East,10,7,Tablet,1
+Referral,Cement,India-North,5,9,Tablet,0
+Email,Infrastructure,India-East,7,2,Tablet,1
+Trade Show,Textile,India-South,7,1,Mobile,1
+Referral,Infrastructure,India-North,5,9,Tablet,0
+Phone,Infrastructure,India-North,7,8,Tablet,1
+Trade Show,Construction,India-East,3,2,Mobile,1
+Cold Call,Textile,India-East,3,10,Tablet,0
+Cold Call,Automobile,India-South,2,7,Mobile,0
+Cold Call,Infrastructure,India-South,3,1,Tablet,1
+Email,Steel,India-North,9,2,Tablet,1
+Email,Infrastructure,India-South,3,3,Desktop,1
+Email,Cement,India-East,10,6,Tablet,0
+Cold Call,Textile,India-West,3,5,Mobile,1
+Email,Textile,India-South,7,7,Mobile,0
+Trade Show,Steel,India-East,6,3,Tablet,1
+Trade Show,Cement,India-South,2,3,Tablet,0
+Cold Call,Textile,India-Central,9,3,Tablet,0
+Email,Mining,India-East,9,6,Tablet,1
+LinkedIn,Cement,India-Central,5,10,Tablet,0
+Email,Mining,India-East,3,4,Desktop,1
+Cold Call,Mining,India-Central,5,6,Desktop,0
+Email,Automobile,India-North,6,6,Desktop,1
+Phone,Construction,India-East,5,5,Desktop,1
+LinkedIn,Steel,India-Central,9,5,Tablet,1
+Referral,Oil & Gas,India-South,9,8,Tablet,0
+Trade Show,Cement,India-East,2,2,Tablet,1
+Cold Call,Oil & Gas,India-East,7,8,Mobile,1
+Phone,Construction,India-West,3,2,Mobile,0
+Phone,Infrastructure,India-South,9,8,Desktop,1
+LinkedIn,Steel,India-South,4,3,Tablet,0
+Web,Chemical,India-Central,7,10,Desktop,0
+LinkedIn,Mining,India-Central,1,9,Tablet,1
+Referral,Engineering,India-North,7,2,Tablet,1
+Email,Steel,India-North,1,6,Desktop,0
+Email,Automobile,India-Central,10,4,Tablet,0
+LinkedIn,Engineering,India-West,3,4,Mobile,1
+Trade Show,Construction,India-Central,2,4,Desktop,0
+Email,Construction,India-North,6,1,Mobile,0
+Web,Steel,India-Central,4,5,Mobile,0
+Cold Call,Engineering,India-East,8,6,Tablet,0
+Email,Cement,India-Central,10,7,Desktop,0
+Phone,Oil & Gas,India-Central,4,10,Tablet,1
+Cold Call,Chemical,India-East,5,2,Desktop,0
+Cold Call,Automobile,India-West,6,5,Tablet,0
+Trade Show,Steel,India-Central,9,1,Mobile,0
+Trade Show,Infrastructure,India-East,2,6,Tablet,0
+Cold Call,Mining,India-East,7,2,Mobile,0
+Email,Construction,India-South,2,1,Desktop,1
+Cold Call,Textile,India-Central,1,2,Desktop,0
+Phone,Chemical,India-South,9,3,Desktop,0
+Phone,Mining,India-East,10,6,Desktop,1
+Referral,Infrastructure,India-East,3,4,Desktop,1
+LinkedIn,Infrastructure,India-East,10,4,Desktop,1
+Web,Mining,India-West,9,6,Mobile,0
+Trade Show,Steel,India-Central,2,3,Mobile,0
+Email,Automobile,India-North,7,10,Desktop,0
+Email,Oil & Gas,India-West,8,6,Desktop,1
+Cold Call,Automobile,India-South,1,9,Mobile,0
+Cold Call,Infrastructure,India-South,9,5,Tablet,1
+Cold Call,Steel,India-North,4,9,Mobile,1
+Web,Steel,India-South,8,8,Tablet,0
+Email,Construction,India-North,7,3,Desktop,1
+Trade Show,Textile,India-East,6,4,Tablet,0
+LinkedIn,Chemical,India-North,8,5,Desktop,1
+Phone,Oil & Gas,India-North,3,8,Tablet,1
+Referral,Construction,India-North,8,4,Tablet,0
+Phone,Mining,India-Central,4,3,Mobile,1
+Trade Show,Chemical,India-South,8,3,Tablet,0
+Trade Show,Steel,India-South,1,3,Desktop,0
+Referral,Oil & Gas,India-North,5,5,Mobile,1
+Cold Call,Textile,India-South,6,3,Desktop,0
+Cold Call,Construction,India-North,9,8,Mobile,0
+Referral,Cement,India-West,9,4,Tablet,0
+Referral,Textile,India-South,9,5,Tablet,0
+LinkedIn,Mining,India-West,5,9,Mobile,0
+Web,Cement,India-East,2,5,Tablet,0
+Phone,Construction,India-West,6,1,Desktop,1
+Referral,Steel,India-West,5,1,Desktop,1
+Web,Chemical,India-East,1,1,Desktop,0
+Referral,Automobile,India-West,5,2,Tablet,0
+Referral,Construction,India-South,4,10,Desktop,1
+Email,Infrastructure,India-North,3,7,Desktop,0
+Cold Call,Textile,India-East,2,2,Tablet,0
+Trade Show,Cement,India-Central,9,8,Desktop,0
+Web,Textile,India-Central,6,8,Desktop,0
+Email,Oil & Gas,India-Central,2,2,Tablet,0
+Referral,Automobile,India-Central,9,6,Desktop,1
+Web,Textile,India-North,6,6,Tablet,0
+Cold Call,Cement,India-West,10,4,Tablet,0
+Phone,Infrastructure,India-South,5,9,Desktop,0
+Cold Call,Infrastructure,India-West,1,7,Mobile,1
+Web,Construction,India-Central,10,3,Tablet,1
+Email,Textile,India-Central,6,7,Mobile,1
+Trade Show,Engineering,India-West,4,5,Tablet,1
+Referral,Cement,India-West,7,4,Desktop,0
+Phone,Infrastructure,India-Central,7,3,Desktop,1
+Referral,Oil & Gas,India-East,8,3,Desktop,0
+Cold Call,Cement,India-West,8,10,Desktop,0
+Email,Textile,India-North,8,1,Tablet,1
+Web,Mining,India-West,1,8,Tablet,1
+Cold Call,Cement,India-West,7,7,Mobile,1
+Web,Oil & Gas,India-South,6,3,Mobile,1
+Referral,Automobile,India-North,1,5,Tablet,1
+Cold Call,Textile,India-Central,8,8,Tablet,1
+Referral,Steel,India-North,10,10,Desktop,0
+Email,Infrastructure,India-West,3,6,Desktop,0
+Phone,Steel,India-East,7,10,Mobile,1
+Phone,Construction,India-East,4,8,Desktop,1
+Email,Textile,India-East,2,6,Mobile,1
+Email,Construction,India-South,2,3,Tablet,0
+LinkedIn,Steel,India-West,1,1,Tablet,0
+Web,Textile,India-Central,2,1,Mobile,0
+LinkedIn,Engineering,India-Central,2,8,Tablet,1
+Email,Cement,India-South,4,10,Tablet,1
+Cold Call,Infrastructure,India-West,10,8,Tablet,0
+LinkedIn,Chemical,India-Central,2,10,Desktop,0
+Web,Construction,India-North,1,1,Tablet,1
+Referral,Mining,India-West,5,8,Tablet,0
+Web,Mining,India-Central,1,8,Mobile,0
+Web,Engineering,India-South,7,10,Tablet,1
+Email,Textile,India-South,3,3,Mobile,0
+LinkedIn,Oil & Gas,India-North,6,6,Tablet,1
+Trade Show,Mining,India-East,5,3,Tablet,0
+Phone,Chemical,India-West,6,4,Desktop,0
+Phone,Textile,India-North,8,1,Desktop,1
+Phone,Chemical,India-North,7,4,Mobile,1
+Phone,Construction,India-South,5,1,Mobile,0
+Referral,Mining,India-West,10,9,Tablet,0
+Web,Textile,India-West,9,10,Tablet,0
+Cold Call,Engineering,India-Central,7,1,Desktop,0
+LinkedIn,Mining,India-West,2,1,Desktop,0
+Cold Call,Mining,India-East,1,7,Mobile,1
+LinkedIn,Infrastructure,India-West,7,6,Mobile,1
+Email,Textile,India-North,3,5,Tablet,1
+LinkedIn,Automobile,India-Central,9,7,Desktop,0
+Cold Call,Chemical,India-East,5,8,Mobile,0
+Trade Show,Oil & Gas,India-South,7,6,Tablet,1
+Referral,Automobile,India-East,8,8,Desktop,1
+Web,Infrastructure,India-Central,4,3,Mobile,0
+Cold Call,Textile,India-North,9,7,Mobile,0
+Phone,Cement,India-Central,6,5,Mobile,0
+Trade Show,Steel,India-South,3,3,Desktop,0
+Web,Cement,India-East,1,2,Tablet,0
+Web,Chemical,India-East,6,7,Mobile,1
+LinkedIn,Infrastructure,India-West,1,1,Desktop,0
+Trade Show,Cement,India-Central,3,6,Mobile,0
+Email,Steel,India-South,1,10,Tablet,0
+Phone,Infrastructure,India-West,4,1,Mobile,1
+Referral,Chemical,India-Central,5,8,Mobile,1
+Trade Show,Mining,India-Central,2,8,Desktop,1
+Phone,Infrastructure,India-Central,8,5,Tablet,1
+Cold Call,Engineering,India-North,6,9,Tablet,0
+Referral,Engineering,India-Central,4,5,Mobile,0
+Trade Show,Chemical,India-Central,7,9,Mobile,0
+Web,Infrastructure,India-East,6,8,Mobile,0
+Email,Steel,India-West,5,9,Desktop,1
+Email,Oil & Gas,India-Central,2,9,Tablet,1
+Trade Show,Cement,India-South,9,2,Tablet,0
+Trade Show,Steel,India-Central,7,8,Mobile,0
