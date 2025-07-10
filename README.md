@@ -56,28 +56,16 @@ predictive-lead-conversion/
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 How to Run
 
 1. **Install dependencies**  
-```bash
+
 pip install -r requirements.txt
 Train the model
 
-bash
-Copy
-Edit
 python src/train_model.py
 Launch the web app
 
-bash
-Copy
-Edit
 streamlit run app/app.py
 Upload CSV file
 Use the UI to upload a dataset and view predicted conversion probabilities.
